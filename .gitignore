@@ -1,0 +1,7 @@
+#####################################################
+### Note: Remove comments before you start coding ###
+#####################################################
+
+## Ignore database files
+# *.env
+# *.sql
